@@ -1,0 +1,2049 @@
+CRITICAL - 2023-05-31 00:00:29 --> Undefined variable $aata
+in APPPATH\Views\Admin\perangkat.php on line 43.
+ 1 APPPATH\Views\Admin\perangkat.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $aata', 'APPPATH\\Views\\Admin\\perangkat.php', 43)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\perangkat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/perangkat', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(32): view('Admin/perangkat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->perangkat()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 00:00:30 --> Undefined variable $aata
+in APPPATH\Views\Admin\perangkat.php on line 43.
+ 1 APPPATH\Views\Admin\perangkat.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $aata', 'APPPATH\\Views\\Admin\\perangkat.php', 43)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\perangkat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/perangkat', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(32): view('Admin/perangkat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->perangkat()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 00:00:30 --> Undefined variable $aata
+in APPPATH\Views\Admin\perangkat.php on line 43.
+ 1 APPPATH\Views\Admin\perangkat.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $aata', 'APPPATH\\Views\\Admin\\perangkat.php', 43)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\perangkat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/perangkat', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(32): view('Admin/perangkat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->perangkat()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 00:01:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 00:01:10 --> Undefined variable $aata
+in APPPATH\Views\Admin\perangkat.php on line 43.
+ 1 APPPATH\Views\Admin\perangkat.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $aata', 'APPPATH\\Views\\Admin\\perangkat.php', 43)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\perangkat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/perangkat', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(32): view('Admin/perangkat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->perangkat()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 00:01:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 00:01:24 --> Undefined variable $data
+in APPPATH\Views\Admin\perangkat.php on line 43.
+ 1 APPPATH\Views\Admin\perangkat.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Views\\Admin\\perangkat.php', 43)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\perangkat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/perangkat', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(32): view('Admin/perangkat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->perangkat()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 00:01:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 00:01:39 --> Undefined variable $data
+in APPPATH\Views\Admin\perangkat.php on line 43.
+ 1 APPPATH\Views\Admin\perangkat.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Views\\Admin\\perangkat.php', 43)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\perangkat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/perangkat', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(32): view('Admin/perangkat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->perangkat()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 00:01:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 00:01:51 --> Undefined variable $key
+in APPPATH\Views\Admin\perangkat.php on line 45.
+ 1 APPPATH\Views\Admin\perangkat.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $key', 'APPPATH\\Views\\Admin\\perangkat.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\perangkat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/perangkat', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(32): view('Admin/perangkat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->perangkat()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 00:02:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 00:02:04 --> Attempt to read property "code_store" on array
+in APPPATH\Views\Admin\perangkat.php on line 46.
+ 1 APPPATH\Views\Admin\perangkat.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "code_store" on array', 'APPPATH\\Views\\Admin\\perangkat.php', 46)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\perangkat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/perangkat', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(32): view('Admin/perangkat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->perangkat()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 00:02:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:02:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 00:02:59 --> Undefined property: stdClass::$code_store
+in APPPATH\Views\Admin\perangkat.php on line 46.
+ 1 APPPATH\Views\Admin\perangkat.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$code_store', 'APPPATH\\Views\\Admin\\perangkat.php', 46)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\perangkat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/perangkat', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(32): view('Admin/perangkat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->perangkat()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 00:03:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 00:03:50 --> Undefined property: stdClass::$code_store
+in APPPATH\Views\Admin\perangkat.php on line 49.
+ 1 APPPATH\Views\Admin\perangkat.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$code_store', 'APPPATH\\Views\\Admin\\perangkat.php', 49)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\perangkat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/perangkat', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(32): view('Admin/perangkat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->perangkat()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 00:04:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:04:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:04:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:04:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:04:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:05:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:06:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:06:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:07:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:07:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:08:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:08:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:09:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:10:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:10:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:10:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:10:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:11:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:11:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:12:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:12:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:13:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:13:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:14:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:16:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 00:16:50 --> Undefined property: stdClass::$code_store
+in APPPATH\Views\Admin\perangkat.php on line 45.
+ 1 APPPATH\Views\Admin\perangkat.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$code_store', 'APPPATH\\Views\\Admin\\perangkat.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\perangkat.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/perangkat', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(32): view('Admin/perangkat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->perangkat()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 00:17:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:18:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:22:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:23:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:23:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:23:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:23:29 --> CSRF token verified.
+INFO - 2023-05-31 00:23:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:23:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:23:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:24:23 --> CSRF token verified.
+INFO - 2023-05-31 00:24:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:24:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:24:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:25:00 --> CSRF token verified.
+INFO - 2023-05-31 00:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:25:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:25:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:25:57 --> CSRF token verified.
+INFO - 2023-05-31 00:25:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:25:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:26:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:26:21 --> CSRF token verified.
+INFO - 2023-05-31 00:26:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:26:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:26:26 --> CSRF token verified.
+INFO - 2023-05-31 00:26:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:26:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:26:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:28:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:28:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:30:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:31:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:31:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:32:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:42:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:42:52 --> CSRF token verified.
+INFO - 2023-05-31 00:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 00:42:52 --> Call to a member function getVar() on null
+in APPPATH\Models\PerangkatModel.php on line 46.
+ 1 APPPATH\Controllers\Admin\Other.php(42): App\Models\PerangkatModel->tambah()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->tambah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 00:50:03 --> CSRF token verified.
+INFO - 2023-05-31 00:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:50:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:50:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:51:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:51:48 --> CSRF token verified.
+INFO - 2023-05-31 00:51:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-31 00:51:48 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `ma...', 0)
+#1 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ma...')
+#2 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ma...')
+#3 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ma...', Array, false)
+#4 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\BaseModel.php(692): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\app\app\Controllers\Admin\Other.php(45): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Admin\Other->tambah()
+#10 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+#11 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\app\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2023-05-31 00:51:48 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `master_perangkat` (`nama_perangkat`) VALUES (:nama_perangkat:)', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(692): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Admin\Other.php(45): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->tambah()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 00:52:22 --> CSRF token verified.
+INFO - 2023-05-31 00:52:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:52:41 --> CSRF token verified.
+INFO - 2023-05-31 00:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:52:50 --> CSRF token verified.
+INFO - 2023-05-31 00:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:52:59 --> CSRF token verified.
+INFO - 2023-05-31 00:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 00:55:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:00:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:00:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:01:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:01:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:04:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:04:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:05:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:05:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:06:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:08:31 --> CSRF token verified.
+INFO - 2023-05-31 01:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:08:35 --> CSRF token verified.
+INFO - 2023-05-31 01:08:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:08:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:09:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:11:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:11:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:11:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:11:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:11:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:12:02 --> CSRF token verified.
+INFO - 2023-05-31 01:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:12:06 --> CSRF token verified.
+INFO - 2023-05-31 01:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:12:32 --> CSRF token verified.
+INFO - 2023-05-31 01:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:13:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:13:52 --> CSRF token verified.
+INFO - 2023-05-31 01:13:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:13:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:14:06 --> CSRF token verified.
+INFO - 2023-05-31 01:14:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:14:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:14:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:16:18 --> CSRF token verified.
+INFO - 2023-05-31 01:16:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:16:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:16:27 --> CSRF token verified.
+INFO - 2023-05-31 01:16:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:16:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:16:36 --> CSRF token verified.
+INFO - 2023-05-31 01:16:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:16:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:16:52 --> CSRF token verified.
+INFO - 2023-05-31 01:16:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:16:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:16:59 --> CSRF token verified.
+INFO - 2023-05-31 01:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:17:19 --> CSRF token verified.
+INFO - 2023-05-31 01:17:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:17:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:18:05 --> CSRF token verified.
+INFO - 2023-05-31 01:18:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:18:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 01:23:25 --> syntax error, unexpected token "}", expecting ";"
+in APPPATH\Controllers\Admin\Other.php on line 53.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Admin\\Other.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Admin\\Other')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Admin\\Other')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Admin\\Other', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 01:23:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:24:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:24:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:24:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:25:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:25:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:25:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:25:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:27:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:27:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:27:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:27:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:27:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:29:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:29:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:29:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:31:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:31:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:31:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:32:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:43:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:43:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:45:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:46:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:47:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:47:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:48:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:48:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:49:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 01:51:08 --> Unsupported operand types: array + int
+in APPPATH\Views\Admin\status.php on line 41.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/status', [], true)
+ 4 APPPATH\Controllers\Admin\Other.php(62): view('Admin/status', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->status()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 01:51:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 01:51:19 --> Unsupported operand types: array + int
+in APPPATH\Views\Admin\status.php on line 41.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/status', [], true)
+ 4 APPPATH\Controllers\Admin\Other.php(62): view('Admin/status', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->status()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 01:51:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:52:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 01:52:01 --> Attempt to read property "nama" on array
+in APPPATH\Views\Admin\status.php on line 42.
+ 1 APPPATH\Views\Admin\status.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama" on array', 'APPPATH\\Views\\Admin\\status.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\status.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/status', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(62): view('Admin/status', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->status()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 01:52:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 01:52:13 --> Attempt to read property "nama_store" on array
+in APPPATH\Views\Admin\status.php on line 42.
+ 1 APPPATH\Views\Admin\status.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_store" on array', 'APPPATH\\Views\\Admin\\status.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\status.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/status', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(62): view('Admin/status', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->status()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 01:52:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:52:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:53:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:54:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:55:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:56:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 01:56:31 --> Attempt to read property "nama_store" on array
+in APPPATH\Views\Admin\status.php on line 38.
+ 1 APPPATH\Views\Admin\status.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_store" on array', 'APPPATH\\Views\\Admin\\status.php', 38)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\status.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/status', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(62): view('Admin/status', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->status()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 01:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:57:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 01:59:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 01:59:17 --> Undefined property: stdClass::$nama_perangkat
+in APPPATH\Views\Admin\status.php on line 43.
+ 1 APPPATH\Views\Admin\status.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$nama_perangkat', 'APPPATH\\Views\\Admin\\status.php', 43)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\status.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/status', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(62): view('Admin/status', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->status()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 01:59:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 01:59:28 --> Undefined property: stdClass::$id_perangkat
+in APPPATH\Views\Admin\status.php on line 45.
+ 1 APPPATH\Views\Admin\status.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id_perangkat', 'APPPATH\\Views\\Admin\\status.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\status.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/status', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(62): view('Admin/status', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->status()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 01:59:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:00:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:00:36 --> Undefined property: stdClass::$id_perangkat
+in APPPATH\Views\Admin\status.php on line 45.
+ 1 APPPATH\Views\Admin\status.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id_perangkat', 'APPPATH\\Views\\Admin\\status.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\status.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/status', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(62): view('Admin/status', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->status()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:00:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:00:49 --> Undefined property: stdClass::$id_perangkat
+in APPPATH\Views\Admin\status.php on line 42.
+ 1 APPPATH\Views\Admin\status.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id_perangkat', 'APPPATH\\Views\\Admin\\status.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\status.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/status', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(62): view('Admin/status', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->status()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:00:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:01:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:01:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:01:24 --> Undefined variable $data
+in APPPATH\Views\Admin\status.php on line 36.
+ 1 APPPATH\Views\Admin\status.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Views\\Admin\\status.php', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\status.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/status', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(62): view('Admin/status', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->status()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:01:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:01:37 --> Undefined property: stdClass::$nama_perangkat
+in APPPATH\Views\Admin\status.php on line 39.
+ 1 APPPATH\Views\Admin\status.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$nama_perangkat', 'APPPATH\\Views\\Admin\\status.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\status.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/status', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(62): view('Admin/status', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->status()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:01:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:02:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:03:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:03:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:03:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:03:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:05:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:05:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:06:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:08:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:09:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:09:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:09:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:12:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:12:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:13:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:13:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:14:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:15:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:17:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:17:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:19:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:19:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:19:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:22:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:26:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:34:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:34:15 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getNumRows()
+in APPPATH\Controllers\Admin\Other.php on line 67.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:35:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:35:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:38:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:38:10 --> Undefined array key "code_store"
+in APPPATH\Controllers\Admin\Other.php on line 68.
+ 1 APPPATH\Controllers\Admin\Other.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "code_store"', 'APPPATH\\Controllers\\Admin\\Other.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:38:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:38:47 --> Undefined array key "code_store"
+in APPPATH\Controllers\Admin\Other.php on line 68.
+ 1 APPPATH\Controllers\Admin\Other.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "code_store"', 'APPPATH\\Controllers\\Admin\\Other.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:39:11 --> Attempt to read property "code_store" on array
+in APPPATH\Controllers\Admin\Other.php on line 68.
+ 1 APPPATH\Controllers\Admin\Other.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "code_store" on array', 'APPPATH\\Controllers\\Admin\\Other.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:39:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:39:44 --> CodeIgniter\Database\BaseBuilder::getWhere(): Argument #2 ($limit) must be of type ?int, string given, called in C:\xampp\htdocs\app\app\Controllers\Admin\Other.php on line 68
+in SYSTEMPATH\Database\BaseBuilder.php on line 1737.
+ 1 APPPATH\Controllers\Admin\Other.php(68): CodeIgniter\Database\BaseBuilder->getWhere('perangkat', 'pos')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:39:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:40:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:40:37 --> Attempt to read property "code_store" on array
+in APPPATH\Controllers\Admin\Other.php on line 68.
+ 1 APPPATH\Controllers\Admin\Other.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "code_store" on array', 'APPPATH\\Controllers\\Admin\\Other.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:40:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:40:52 --> Undefined array key "code_store"
+in APPPATH\Controllers\Admin\Other.php on line 68.
+ 1 APPPATH\Controllers\Admin\Other.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "code_store"', 'APPPATH\\Controllers\\Admin\\Other.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:41:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:41:26 --> Undefined array key "code_store"
+in APPPATH\Controllers\Admin\Other.php on line 68.
+ 1 APPPATH\Controllers\Admin\Other.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "code_store"', 'APPPATH\\Controllers\\Admin\\Other.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:41:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:41:28 --> Undefined array key "code_store"
+in APPPATH\Controllers\Admin\Other.php on line 68.
+ 1 APPPATH\Controllers\Admin\Other.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "code_store"', 'APPPATH\\Controllers\\Admin\\Other.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:41:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:41:28 --> Undefined array key "code_store"
+in APPPATH\Controllers\Admin\Other.php on line 68.
+ 1 APPPATH\Controllers\Admin\Other.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "code_store"', 'APPPATH\\Controllers\\Admin\\Other.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:41:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:41:49 --> Undefined array key "code_store"
+in APPPATH\Controllers\Admin\Other.php on line 68.
+ 1 APPPATH\Controllers\Admin\Other.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "code_store"', 'APPPATH\\Controllers\\Admin\\Other.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:41:50 --> Undefined array key "code_store"
+in APPPATH\Controllers\Admin\Other.php on line 68.
+ 1 APPPATH\Controllers\Admin\Other.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "code_store"', 'APPPATH\\Controllers\\Admin\\Other.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:42:23 --> Undefined array key "code_store"
+in APPPATH\Controllers\Admin\Other.php on line 68.
+ 1 APPPATH\Controllers\Admin\Other.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "code_store"', 'APPPATH\\Controllers\\Admin\\Other.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:42:56 --> Undefined array key "code_store"
+in APPPATH\Controllers\Admin\Other.php on line 68.
+ 1 APPPATH\Controllers\Admin\Other.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "code_store"', 'APPPATH\\Controllers\\Admin\\Other.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:43:11 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::countAllResults()
+in APPPATH\Controllers\Admin\Other.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:43:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:44:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:45:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:45:07 --> Undefined array key "code_store"
+in APPPATH\Controllers\Admin\Other.php on line 68.
+ 1 APPPATH\Controllers\Admin\Other.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "code_store"', 'APPPATH\\Controllers\\Admin\\Other.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:45:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:45:33 --> Attempt to read property "code_store" on array
+in APPPATH\Controllers\Admin\Other.php on line 68.
+ 1 APPPATH\Controllers\Admin\Other.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "code_store" on array', 'APPPATH\\Controllers\\Admin\\Other.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:46:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:47:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:54:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 02:54:02 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::group_by()
+in APPPATH\Controllers\Admin\Other.php on line 67.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 02:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:55:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 02:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:01:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:01:04 --> Attempt to read property "nama_store" on array
+in APPPATH\Views\Admin\jumlah.php on line 35.
+ 1 APPPATH\Views\Admin\jumlah.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_store" on array', 'APPPATH\\Views\\Admin\\jumlah.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:01:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:06:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:09:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:09:31 --> Undefined array key 0
+in APPPATH\Views\Admin\jumlah.php on line 39.
+ 1 APPPATH\Views\Admin\jumlah.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'APPPATH\\Views\\Admin\\jumlah.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:09:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:09:41 --> Undefined array key 0
+in APPPATH\Views\Admin\jumlah.php on line 39.
+ 1 APPPATH\Views\Admin\jumlah.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'APPPATH\\Views\\Admin\\jumlah.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:09:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:09:57 --> Unclosed '(' does not match ']'
+in APPPATH\Views\Admin\jumlah.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 3 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:10:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:10:21 --> Attempt to read property "perangakt" on array
+in APPPATH\Views\Admin\jumlah.php on line 39.
+ 1 APPPATH\Views\Admin\jumlah.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "perangakt" on array', 'APPPATH\\Views\\Admin\\jumlah.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:10:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:10:51 --> Attempt to read property "perangkat" on array
+in APPPATH\Views\Admin\jumlah.php on line 39.
+ 1 APPPATH\Views\Admin\jumlah.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "perangkat" on array', 'APPPATH\\Views\\Admin\\jumlah.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:11:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:11:07 --> count(): Argument #2 ($mode) must be of type int, string given
+in APPPATH\Views\Admin\jumlah.php on line 39.
+ 1 APPPATH\Views\Admin\jumlah.php(39): count('POS', 'pos')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:12:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:12:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:12:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:13:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:13:00 --> Unclosed '[' does not match ')'
+in APPPATH\Views\Admin\jumlah.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 3 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:13:24 --> Unclosed '[' does not match ')'
+in APPPATH\Views\Admin\jumlah.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 3 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:13:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:14:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:14:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:15:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:15:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:16:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:16:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:17:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:17:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:17:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:18:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:18:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:19:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:20:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:20:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:22:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:23:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:25:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:25:09 --> Undefined variable $con
+in APPPATH\Views\Admin\jumlah.php on line 35.
+ 1 APPPATH\Views\Admin\jumlah.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $con', 'APPPATH\\Views\\Admin\\jumlah.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:25:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:25:26 --> Unknown column 'C19' in 'where clause'
+in APPPATH\Views\Admin\jumlah.php on line 35.
+ 1 APPPATH\Views\Admin\jumlah.php(35): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE code_store = C19')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:26:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:26:30 --> Unknown column 'C19' in 'where clause'
+in APPPATH\Views\Admin\jumlah.php on line 35.
+ 1 APPPATH\Views\Admin\jumlah.php(35): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE code_store = C19')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:28:11 --> Unknown column 'C19' in 'where clause'
+in APPPATH\Views\Admin\jumlah.php on line 35.
+ 1 APPPATH\Views\Admin\jumlah.php(35): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE code_store = C19')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:28:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:28:53 --> Attempt to read property "code_store" on array
+in APPPATH\Views\Admin\jumlah.php on line 35.
+ 1 APPPATH\Views\Admin\jumlah.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "code_store" on array', 'APPPATH\\Views\\Admin\\jumlah.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:29:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:29:11 --> Unknown column 'C19' in 'where clause'
+in APPPATH\Views\Admin\jumlah.php on line 35.
+ 1 APPPATH\Views\Admin\jumlah.php(35): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE code_store = C19')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:30:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:30:08 --> Unknown column 'C19' in 'where clause'
+in APPPATH\Views\Admin\jumlah.php on line 35.
+ 1 APPPATH\Views\Admin\jumlah.php(35): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE code_store = C19')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:31:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:31:26 --> Undefined variable $pos
+in APPPATH\Views\Admin\jumlah.php on line 40.
+ 1 APPPATH\Views\Admin\jumlah.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pos', 'APPPATH\\Views\\Admin\\jumlah.php', 40)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:31:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:31:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:34:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:34:50 --> Table 'appts.barang' doesn't exist
+in APPPATH\Views\Admin\jumlah.php on line 35.
+ 1 APPPATH\Views\Admin\jumlah.php(35): mysqli_query(Object(mysqli), 'SELECT * FROM barang')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:36:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:37:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:37:06 --> Undefined variable $koneksi
+in APPPATH\Views\Admin\jumlah.php on line 35.
+ 1 APPPATH\Views\Admin\jumlah.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $koneksi', 'APPPATH\\Views\\Admin\\jumlah.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:37:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:38:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:39:12 --> Undefined variable $koneksi
+in APPPATH\Views\Admin\jumlah.php on line 36.
+ 1 APPPATH\Views\Admin\jumlah.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $koneksi', 'APPPATH\\Views\\Admin\\jumlah.php', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:39:21 --> Undefined variable $b
+in APPPATH\Views\Admin\jumlah.php on line 45.
+ 1 APPPATH\Views\Admin\jumlah.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $b', 'APPPATH\\Views\\Admin\\jumlah.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:39:38 --> Undefined variable $b
+in APPPATH\Views\Admin\jumlah.php on line 45.
+ 1 APPPATH\Views\Admin\jumlah.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $b', 'APPPATH\\Views\\Admin\\jumlah.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:39:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:40:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:40:40 --> Unknown column 'C19' in 'where clause'
+in APPPATH\Views\Admin\jumlah.php on line 35.
+ 1 APPPATH\Views\Admin\jumlah.php(35): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE code_store = C19')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:41:14 --> Array to string conversion
+in APPPATH\Views\Admin\jumlah.php on line 35.
+ 1 APPPATH\Views\Admin\jumlah.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\Admin\\jumlah.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:41:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:41:23 --> Attempt to read property "code_store" on array
+in APPPATH\Views\Admin\jumlah.php on line 35.
+ 1 APPPATH\Views\Admin\jumlah.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "code_store" on array', 'APPPATH\\Views\\Admin\\jumlah.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:42:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:42:44 --> Unknown column 'C19' in 'where clause'
+in APPPATH\Views\Admin\jumlah.php on line 35.
+ 1 APPPATH\Views\Admin\jumlah.php(35): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE code_store = C19')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:43:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:43:34 --> Unknown column 'C19' in 'where clause'
+in APPPATH\Views\Admin\jumlah.php on line 35.
+ 1 APPPATH\Views\Admin\jumlah.php(35): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE code_store = C19')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:44:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:44:02 --> Unknown column 'C19' in 'where clause'
+in APPPATH\Views\Admin\jumlah.php on line 35.
+ 1 APPPATH\Views\Admin\jumlah.php(35): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE code_store = C19')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:44:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:44:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:45:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:48:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:49:02 --> CSRF token verified.
+INFO - 2023-05-31 03:49:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:49:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:49:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:49:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:49:20 --> CSRF token verified.
+INFO - 2023-05-31 03:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:49:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:49:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:51:22 --> mysqli_num_rows() expects exactly 1 argument, 2 given
+in APPPATH\Views\Admin\jumlah.php on line 37.
+ 1 APPPATH\Views\Admin\jumlah.php(37): mysqli_num_rows(Object(mysqli_result), Object(mysqli_result))
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:51:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:52:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:52:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:52:34 --> Undefined variable $cpu
+in APPPATH\Views\Admin\jumlah.php on line 44.
+ 1 APPPATH\Views\Admin\jumlah.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cpu', 'APPPATH\\Views\\Admin\\jumlah.php', 44)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:55:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:55:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:56:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:57:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 03:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:58:58 --> Cannot use object of type mysqli_result as array
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 4 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 03:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 03:59:14 --> Undefined property: mysqli_result::$jumlah
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 APPPATH\Views\Admin\jumlah.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: mysqli_result::$jumlah', 'APPPATH\\Views\\Admin\\jumlah.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:00:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:00:22 --> Trying to access array offset on value of type null
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:01:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:02:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:04:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:05:27 --> CSRF token verified.
+INFO - 2023-05-31 04:05:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:05:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:05:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:05:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:05:59 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%printer%' at line 1
+in APPPATH\Views\Admin\jumlah.php on line 37.
+ 1 APPPATH\Views\Admin\jumlah.php(37): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE code_store = \'403\' AND perangkat LIKE %printer%')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:06:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:06:33 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%printer%' at line 1
+in APPPATH\Views\Admin\jumlah.php on line 37.
+ 1 APPPATH\Views\Admin\jumlah.php(37): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE code_store = \'403\' AND perangkat LIKE %printer%')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:06:41 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%printer%' at line 1
+in APPPATH\Views\Admin\jumlah.php on line 37.
+ 1 APPPATH\Views\Admin\jumlah.php(37): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE code_store = \'403\' AND perangkat LIKE %printer%')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:06:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:06:48 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%printer%' at line 1
+in APPPATH\Views\Admin\jumlah.php on line 37.
+ 1 APPPATH\Views\Admin\jumlah.php(37): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE code_store = \'403\' AND perangkat LIKE %printer%')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:11:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:11:28 --> Undefined variable $koneksi
+in APPPATH\Views\Admin\jumlah.php on line 45.
+ 1 APPPATH\Views\Admin\jumlah.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $koneksi', 'APPPATH\\Views\\Admin\\jumlah.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:11:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:11:36 --> Unknown column 'C19' in 'where clause'
+in APPPATH\Views\Admin\jumlah.php on line 45.
+ 1 APPPATH\Views\Admin\jumlah.php(45): mysqli_query(Object(mysqli), 'SELECT * FROM cctv_network WHERE code_store = C19')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:12:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:13:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:16:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:16:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:17:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:17:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:17:38 --> Trying to access array offset on value of type int
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 APPPATH\Views\Admin\jumlah.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'APPPATH\\Views\\Admin\\jumlah.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:18:21 --> Trying to access array offset on value of type int
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 APPPATH\Views\Admin\jumlah.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'APPPATH\\Views\\Admin\\jumlah.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:19:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:19:18 --> Value of type int is not callable
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 4 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:19:46 --> Trying to access array offset on value of type int
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 APPPATH\Views\Admin\jumlah.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'APPPATH\\Views\\Admin\\jumlah.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:20:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:20:47 --> Trying to access array offset on value of type int
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 APPPATH\Views\Admin\jumlah.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'APPPATH\\Views\\Admin\\jumlah.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:21:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:21:40 --> Unknown column 'b.code_store' in 'where clause'
+in APPPATH\Views\Admin\jumlah.php on line 40.
+ 1 APPPATH\Views\Admin\jumlah.php(40): mysqli_query(Object(mysqli), 'SELECT * FROM cctv_network JOIN data_aset ON a.code_store=b.code_store WHERE b.code_store = \'403\'')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:22:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:22:11 --> Trying to access array offset on value of type int
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 APPPATH\Views\Admin\jumlah.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'APPPATH\\Views\\Admin\\jumlah.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:22:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:22:33 --> Trying to access array offset on value of type null
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 APPPATH\Views\Admin\jumlah.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\Admin\\jumlah.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:22:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:22:39 --> Trying to access array offset on value of type null
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 APPPATH\Views\Admin\jumlah.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\Admin\\jumlah.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:22:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:22:46 --> Trying to access array offset on value of type null
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 APPPATH\Views\Admin\jumlah.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\Admin\\jumlah.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:23:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:23:23 --> Trying to access array offset on value of type null
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 APPPATH\Views\Admin\jumlah.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\Admin\\jumlah.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:24:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:24:08 --> Undefined variable $cctv
+in APPPATH\Views\Admin\jumlah.php on line 54.
+ 1 APPPATH\Views\Admin\jumlah.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cctv', 'APPPATH\\Views\\Admin\\jumlah.php', 54)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:24:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:25:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:26:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:27:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:28:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:29:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:30:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:31:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:31:31 --> Unknown column 'cctv_netwok.code_store' in 'where clause'
+in APPPATH\Views\Admin\jumlah.php on line 45.
+ 1 APPPATH\Views\Admin\jumlah.php(45): mysqli_query(Object(mysqli), 'SELECT * FROM cctv_network JOIN data_aset ON cctv_network.code_store = data_aset.code_store WHERE cctv_netwok.code_store = \'403\' ')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:31:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:32:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:33:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:33:12 --> Unknown column 'cctv_netwok.code_store' in 'where clause'
+in APPPATH\Views\Admin\jumlah.php on line 45.
+ 1 APPPATH\Views\Admin\jumlah.php(45): mysqli_query(Object(mysqli), 'SELECT * FROM cctv_network INNER JOIN data_aset ON cctv_network.code_store = data_aset.code_store WHERE cctv_netwok.code_store = \'403\' ')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:33:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:33:26 --> Column 'code_store' in where clause is ambiguous
+in APPPATH\Views\Admin\jumlah.php on line 45.
+ 1 APPPATH\Views\Admin\jumlah.php(45): mysqli_query(Object(mysqli), 'SELECT * FROM cctv_network INNER JOIN data_aset ON cctv_network.code_store = data_aset.code_store WHERE code_store = \'403\' ')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:33:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:34:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:34:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:34:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:34:44 --> Undefined variable $b
+in APPPATH\Views\Admin\jumlah.php on line 46.
+ 1 APPPATH\Views\Admin\jumlah.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $b', 'APPPATH\\Views\\Admin\\jumlah.php', 46)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:34:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:35:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:35:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:35:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:35:51 --> Object of class mysqli could not be converted to string
+in APPPATH\Views\Admin\jumlah.php on line 45.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 4 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:36:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:36:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:37:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:37:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:37:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:38:07 --> Undefined variable $b
+in APPPATH\Views\Admin\jumlah.php on line 54.
+ 1 APPPATH\Views\Admin\jumlah.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $b', 'APPPATH\\Views\\Admin\\jumlah.php', 54)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:38:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:41:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:42:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:44:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:44:23 --> Undefined variable $connection
+in APPPATH\Views\Admin\jumlah.php on line 35.
+ 1 APPPATH\Views\Admin\jumlah.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $connection', 'APPPATH\\Views\\Admin\\jumlah.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:45:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:45:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:46:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:47:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:47:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:48:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:48:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:50:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-31 04:50:49 --> mysqli_sql_exception: Table 'appts.network_cctv' doesn't exist in C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\app\app\Controllers\Admin\Other.php(69): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+#6 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+#7 C:\xampp\htdocs\app\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-05-31 04:50:49 --> Table 'appts.network_cctv' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `network_cctv`
+WHERE `code_store` = :code_store:', [...], false)
+ 2 APPPATH\Controllers\Admin\Other.php(69): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:51:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:51:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:51:52 --> Attempt to read property "jumlah" on array
+in APPPATH\Views\Admin\jumlah.php on line 54.
+ 1 APPPATH\Views\Admin\jumlah.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "jumlah" on array', 'APPPATH\\Views\\Admin\\jumlah.php', 54)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(76): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:52:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:52:04 --> Undefined array key "jumlah"
+in APPPATH\Views\Admin\jumlah.php on line 54.
+ 1 APPPATH\Views\Admin\jumlah.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jumlah"', 'APPPATH\\Views\\Admin\\jumlah.php', 54)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(76): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:52:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:52:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:52:44 --> Undefined array key "jumlah"
+in APPPATH\Views\Admin\jumlah.php on line 55.
+ 1 APPPATH\Views\Admin\jumlah.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jumlah"', 'APPPATH\\Views\\Admin\\jumlah.php', 55)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(76): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:53:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:53:18 --> Attempt to read property "jumlah" on array
+in APPPATH\Views\Admin\jumlah.php on line 55.
+ 1 APPPATH\Views\Admin\jumlah.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "jumlah" on array', 'APPPATH\\Views\\Admin\\jumlah.php', 55)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(76): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:54:05 --> Undefined array key "jumlah"
+in APPPATH\Views\Admin\jumlah.php on line 55.
+ 1 APPPATH\Views\Admin\jumlah.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jumlah"', 'APPPATH\\Views\\Admin\\jumlah.php', 55)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(76): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:55:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:55:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:56:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:56:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:56:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:56:59 --> Undefined array key "code_store"
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 APPPATH\Views\Admin\jumlah.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "code_store"', 'APPPATH\\Views\\Admin\\jumlah.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(76): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:57:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:57:18 --> Undefined variable $cc
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 APPPATH\Views\Admin\jumlah.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cc', 'APPPATH\\Views\\Admin\\jumlah.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(76): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:57:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:57:42 --> Undefined variable $cc
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 APPPATH\Views\Admin\jumlah.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cc', 'APPPATH\\Views\\Admin\\jumlah.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(76): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:57:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:57:55 --> Undefined array key "code_store"
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 APPPATH\Views\Admin\jumlah.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "code_store"', 'APPPATH\\Views\\Admin\\jumlah.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(76): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:58:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 04:58:06 --> Attempt to read property "code_store" on array
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 APPPATH\Views\Admin\jumlah.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "code_store" on array', 'APPPATH\\Views\\Admin\\jumlah.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(76): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 04:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:59:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 04:59:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:00:31 --> Undefined variable $cctv
+in APPPATH\Controllers\Admin\Other.php on line 73.
+ 1 APPPATH\Controllers\Admin\Other.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cctv', 'APPPATH\\Controllers\\Admin\\Other.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:00:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:01:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:01:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:01:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:01:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:02:07 --> CSRF token verified.
+INFO - 2023-05-31 05:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:03:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:03:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:04:21 --> Cannot use object of type mysqli_result as array
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 4 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:04:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:04:33 --> Undefined property: mysqli_result::$jumlah
+in APPPATH\Views\Admin\jumlah.php on line 56.
+ 1 APPPATH\Views\Admin\jumlah.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: mysqli_result::$jumlah', 'APPPATH\\Views\\Admin\\jumlah.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:05:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:05:15 --> Trying to access array offset on value of type null
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:05:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:05:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:05:56 --> Trying to access array offset on value of type null
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:06:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:06:20 --> Attempt to read property "jumlah" on array
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "jumlah" on array', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:06:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:06:32 --> Undefined variable $jumlah
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jumlah', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:06:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:06:39 --> Array to string conversion
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:07:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:07:00 --> Array to string conversion
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:07:01 --> Array to string conversion
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:07:22 --> Array to string conversion
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:07:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:07:32 --> Trying to access array offset on value of type null
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:07:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:07:55 --> Trying to access array offset on value of type null
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:08:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:09:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:09:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:09:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:10:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:10:15 --> Attempt to read property "jumlah" on null
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "jumlah" on null', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:10:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:10:27 --> Cannot use object of type stdClass as array
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 4 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:10:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:10:50 --> Cannot use object of type stdClass as array
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 4 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:10:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:10:55 --> Cannot use object of type stdClass as array
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 4 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:11:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:11:00 --> Object of class stdClass could not be converted to string
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 4 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:11:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:11:20 --> Cannot use object of type stdClass as array
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 4 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:12:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:12:11 --> Trying to access array offset on value of type int
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:12:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:12:22 --> Attempt to read property "jumlah" on int
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "jumlah" on int', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:13:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:13:28 --> Attempt to read property "jumlah" on array
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "jumlah" on array', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:13:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:13:40 --> Undefined array key "jumlah"
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jumlah"', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:13:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:13:46 --> Array to string conversion
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:14:04 --> Array to string conversion
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:14:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:15:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:15:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:15:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:16:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:17:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 05:17:07 --> Trying to access array offset on value of type null
+in APPPATH\Views\Admin\jumlah.php on line 57.
+ 1 APPPATH\Views\Admin\jumlah.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\Admin\\jumlah.php', 57)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Admin\\jumlah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Admin/jumlah', [], true)
+ 5 APPPATH\Controllers\Admin\Other.php(74): view('Admin/jumlah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin\Other->jumlah()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Other))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 05:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:25:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:25:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:26:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:26:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:26:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:26:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:26:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:26:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:27:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:27:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:27:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:29:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:29:46 --> CSRF token verified.
+INFO - 2023-05-31 05:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:29:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:29:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:29:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:30:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:30:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:30:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 05:39:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:26:12 --> CSRF token verified.
+INFO - 2023-05-31 13:26:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:26:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:26:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:27:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:28:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:28:39 --> CSRF token verified.
+INFO - 2023-05-31 13:28:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:28:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:29:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:31:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:36:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:36:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:37:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:38:16 --> CSRF token verified.
+INFO - 2023-05-31 13:38:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:38:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:38:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:38:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 13:47:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 17:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 17:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 17:30:39 --> CSRF token verified.
+INFO - 2023-05-31 17:30:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 17:30:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

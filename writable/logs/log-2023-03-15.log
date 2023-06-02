@@ -1,0 +1,412 @@
+CRITICAL - 2023-03-15 23:45:48 --> include(../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 23:46:16 --> include(../../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 23:46:48 --> include(../../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 23:46:53 --> include(../../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 23:47:07 --> include(../../Database/koneksi): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../Database/koneksi): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 23:47:39 --> include(../../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 23:48:35 --> include(../../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 23:48:36 --> include(../../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 23:48:36 --> include(../../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 23:48:36 --> include(../../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 23:48:36 --> include(../../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 23:49:14 --> include(../../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 23:49:18 --> include(../../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:49:44 --> include(../../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:51:08 --> include(./../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(./../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:51:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:51:09 --> include(./../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(./../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:51:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:51:17 --> include(../../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:51:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:51:33 --> include(Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:51:45 --> include(../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:51:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:51:56 --> include(..\..\Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(..\\..\\Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:52:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:52:34 --> include(..\../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(..\\../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:52:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:52:40 --> include(..\Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(..\\Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:52:46 --> include(Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 3.
+ 1 APPPATH\Views\User\Index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 3)
+ 2 APPPATH\Views\User\Index.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:54:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:54:58 --> include(../../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 105.
+ 1 APPPATH\Views\User\Index.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 105)
+ 2 APPPATH\Views\User\Index.php(105): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:55:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:55:08 --> include_once(../../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 105.
+ 1 APPPATH\Views\User\Index.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include_once(../../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 105)
+ 2 APPPATH\Views\User\Index.php(105): include_once()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:55:25 --> require(../../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 105.
+ 1 APPPATH\Views\User\Index.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 105)
+ 2 APPPATH\Views\User\Index.php(105): require()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:56:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:56:20 --> require(../../Database/koneksi.php): Failed to open stream: No such file or directory
+in APPPATH\Views\User\Index.php on line 105.
+ 1 APPPATH\Views\User\Index.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../../Database/koneksi.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\User\\Index.php', 105)
+ 2 APPPATH\Views\User\Index.php(105): require()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:56:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:56:47 --> Unknown database 'aapts'
+in APPPATH\Views\User\koneksi.php on line 7.
+ 1 APPPATH\Views\User\koneksi.php(7): mysqli_connect('localhost', 'root', 'ROOTPATH\\public', 'aapts')
+ 2 APPPATH\Views\User\Index.php(105): require('APPPATH\\Views\\User\\koneksi.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 6 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:56:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:56:59 --> mysqli object is already closed
+in APPPATH\Views\User\Index.php on line 106.
+ 1 APPPATH\Views\User\Index.php(106): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE nik_user = 2220847 ORDER BY kategori')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 5 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:57:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:57:42 --> mysqli object is already closed
+in APPPATH\Views\User\Index.php on line 106.
+ 1 APPPATH\Views\User\Index.php(106): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE nik_user = 2220847 ORDER BY kategori')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 5 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:57:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:57:43 --> mysqli object is already closed
+in APPPATH\Views\User\Index.php on line 106.
+ 1 APPPATH\Views\User\Index.php(106): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE nik_user = 2220847 ORDER BY kategori')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 5 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:57:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:57:43 --> mysqli object is already closed
+in APPPATH\Views\User\Index.php on line 106.
+ 1 APPPATH\Views\User\Index.php(106): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE nik_user = 2220847 ORDER BY kategori')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 5 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:58:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-15 23:58:00 --> mysqli object is already closed
+in APPPATH\Views\User\Index.php on line 106.
+ 1 APPPATH\Views\User\Index.php(106): mysqli_query(Object(mysqli), 'SELECT * FROM data_aset WHERE nik_user = 2220847 ORDER BY kategori')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\User\\Index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('User/index', [], true)
+ 5 APPPATH\Controllers\User\User.php(34): view('User/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User\User->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-15 23:59:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

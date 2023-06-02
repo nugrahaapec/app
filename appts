@@ -1,0 +1,395 @@
+-- MySQL Administrator dump 1.4
+--
+-- ------------------------------------------------------
+-- Server version	5.5.5-10.4.27-MariaDB
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+
+
+--
+-- Create schema appts
+--
+
+CREATE DATABASE IF NOT EXISTS appts;
+USE appts;
+
+--
+-- Definition of table `cctv_network`
+--
+
+DROP TABLE IF EXISTS `cctv_network`;
+CREATE TABLE `cctv_network` (
+  `id_cctv` int(10) NOT NULL AUTO_INCREMENT,
+  `code_store` varchar(100) NOT NULL,
+  `nik_user` varchar(100) NOT NULL,
+  `nama_store` varchar(100) NOT NULL,
+  `nama_user` varchar(100) NOT NULL,
+  `kategori` varchar(100) NOT NULL,
+  `dvr` varchar(100) NOT NULL,
+  `monitor` varchar(100) NOT NULL,
+  `ups` varchar(100) NOT NULL,
+  `tipe` varchar(10) NOT NULL,
+  `jumlah` varchar(10) NOT NULL,
+  `kategori1` varchar(100) NOT NULL,
+  `sdwan` varchar(10) NOT NULL,
+  `wifi` varchar(50) NOT NULL,
+  `phone` varchar(100) NOT NULL,
+  `status` int(1) NOT NULL,
+  PRIMARY KEY (`id_cctv`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `cctv_network`
+--
+
+/*!40000 ALTER TABLE `cctv_network` DISABLE KEYS */;
+/*!40000 ALTER TABLE `cctv_network` ENABLE KEYS */;
+
+
+--
+-- Definition of table `data_aset`
+--
+
+DROP TABLE IF EXISTS `data_aset`;
+CREATE TABLE `data_aset` (
+  `id_data` int(50) NOT NULL AUTO_INCREMENT,
+  `code_store` varchar(100) NOT NULL,
+  `nik_user` varchar(100) NOT NULL,
+  `nama_store` varchar(100) NOT NULL,
+  `nama_user` varchar(100) NOT NULL,
+  `kategori` varchar(100) NOT NULL,
+  `perangkat` varchar(100) NOT NULL,
+  `merk` varchar(100) NOT NULL,
+  `sn` varchar(100) NOT NULL,
+  `tahun` int(11) NOT NULL,
+  `status` int(3) NOT NULL,
+  PRIMARY KEY (`id_data`)
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `data_aset`
+--
+
+/*!40000 ALTER TABLE `data_aset` DISABLE KEYS */;
+INSERT INTO `data_aset` (`id_data`,`code_store`,`nik_user`,`nama_store`,`nama_user`,`kategori`,`perangkat`,`merk`,`sn`,`tahun`,`status`) VALUES 
+ (1,'104','0','test','Nugraha Apec Tryawan','POS 1','CASH DRAWER','QSWS','SWQSQW',2023,1),
+ (2,'104','0','test','Nugraha Apec Tryawan','POS 1','CASH DRAWER','HJ','BJKBJK',2023,1),
+ (3,'104','0','test','Nugraha Apec Tryawan','POS 1','CASH DRAWER','UIGIUBKBKJ','VKJVKJ',2023,1),
+ (4,'104','0','test','Nugraha Apec Tryawan','POS 1','UPS','SAASA','SASA',2023,1);
+/*!40000 ALTER TABLE `data_aset` ENABLE KEYS */;
+
+
+--
+-- Definition of table `maintenance`
+--
+
+DROP TABLE IF EXISTS `maintenance`;
+CREATE TABLE `maintenance` (
+  `id_maintenance` int(10) NOT NULL AUTO_INCREMENT,
+  `code_store` varchar(100) NOT NULL,
+  `nik_user` varchar(100) NOT NULL,
+  `nama_store` varchar(100) NOT NULL,
+  `nama_user` varchar(100) NOT NULL,
+  `kategori` varchar(100) NOT NULL,
+  `perangkat` varchar(100) NOT NULL,
+  `merk` varchar(100) NOT NULL,
+  `sn` varchar(100) NOT NULL,
+  `tahun` int(10) NOT NULL,
+  `status` int(10) NOT NULL,
+  PRIMARY KEY (`id_maintenance`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `maintenance`
+--
+
+/*!40000 ALTER TABLE `maintenance` DISABLE KEYS */;
+/*!40000 ALTER TABLE `maintenance` ENABLE KEYS */;
+
+
+--
+-- Definition of table `master_perangkat`
+--
+
+DROP TABLE IF EXISTS `master_perangkat`;
+CREATE TABLE `master_perangkat` (
+  `id_perangkat` int(10) NOT NULL,
+  `nama_perangkat` varchar(100) NOT NULL,
+  PRIMARY KEY (`id_perangkat`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `master_perangkat`
+--
+
+/*!40000 ALTER TABLE `master_perangkat` DISABLE KEYS */;
+INSERT INTO `master_perangkat` (`id_perangkat`,`nama_perangkat`) VALUES 
+ (1,'Pos'),
+ (2,'Printer'),
+ (3,'UPS'),
+ (4,'Cash Drawer'),
+ (5,'Printer Thermal'),
+ (6,'Mini PC'),
+ (7,'CPU'),
+ (8,'Switch D-Link'),
+ (9,'Fingger Print'),
+ (10,'Monitor');
+/*!40000 ALTER TABLE `master_perangkat` ENABLE KEYS */;
+
+
+--
+-- Definition of table `master_store`
+--
+
+DROP TABLE IF EXISTS `master_store`;
+CREATE TABLE `master_store` (
+  `id_store` int(10) NOT NULL AUTO_INCREMENT,
+  `code_store` varchar(100) NOT NULL,
+  `nama_store` varchar(100) NOT NULL,
+  PRIMARY KEY (`id_store`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `master_store`
+--
+
+/*!40000 ALTER TABLE `master_store` DISABLE KEYS */;
+INSERT INTO `master_store` (`id_store`,`code_store`,`nama_store`) VALUES 
+ (1,'104','test');
+/*!40000 ALTER TABLE `master_store` ENABLE KEYS */;
+
+
+--
+-- Definition of table `store`
+--
+
+DROP TABLE IF EXISTS `store`;
+CREATE TABLE `store` (
+  `id` int(100) NOT NULL AUTO_INCREMENT,
+  `code_store` varchar(100) NOT NULL,
+  `nama_store` varchar(100) NOT NULL,
+  `nik_user` varchar(20) NOT NULL,
+  `nama_user` varchar(100) NOT NULL,
+  `lokasi` varchar(50) NOT NULL,
+  `status` int(3) NOT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `code_store` (`code_store`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `store`
+--
+
+/*!40000 ALTER TABLE `store` DISABLE KEYS */;
+INSERT INTO `store` (`id`,`code_store`,`nama_store`,`nik_user`,`nama_user`,`lokasi`,`status`) VALUES 
+ (1,'104','test','0','Nugraha Apec Tryawan','1',0);
+/*!40000 ALTER TABLE `store` ENABLE KEYS */;
+
+
+--
+-- Definition of table `tbl_do`
+--
+
+DROP TABLE IF EXISTS `tbl_do`;
+CREATE TABLE `tbl_do` (
+  `id_do` int(10) NOT NULL AUTO_INCREMENT,
+  `no_do` varchar(100) NOT NULL,
+  PRIMARY KEY (`id_do`)
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `tbl_do`
+--
+
+/*!40000 ALTER TABLE `tbl_do` DISABLE KEYS */;
+INSERT INTO `tbl_do` (`id_do`,`no_do`) VALUES 
+ (1,'8978HUIH98Y98'),
+ (2,'1234'),
+ (3,'EW32442DQA');
+/*!40000 ALTER TABLE `tbl_do` ENABLE KEYS */;
+
+
+--
+-- Definition of table `tbl_newpermintaan`
+--
+
+DROP TABLE IF EXISTS `tbl_newpermintaan`;
+CREATE TABLE `tbl_newpermintaan` (
+  `id_permintaan` int(100) NOT NULL AUTO_INCREMENT,
+  `code_permintaan` varchar(100) NOT NULL,
+  `code_store` varchar(100) NOT NULL,
+  `nik_user` varchar(100) NOT NULL,
+  `nama_store` varchar(100) NOT NULL,
+  `nama_user` varchar(100) NOT NULL,
+  `kategori` varchar(100) NOT NULL,
+  `code_perangkat` varchar(100) NOT NULL,
+  `merk` varchar(100) NOT NULL,
+  `sn` varchar(100) NOT NULL,
+  `keterangan` varchar(100) NOT NULL,
+  `tanggal_permintaan` varchar(20) NOT NULL,
+  `status` int(3) NOT NULL,
+  `tanggal_proses` date DEFAULT NULL,
+  PRIMARY KEY (`id_permintaan`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `tbl_newpermintaan`
+--
+
+/*!40000 ALTER TABLE `tbl_newpermintaan` DISABLE KEYS */;
+INSERT INTO `tbl_newpermintaan` (`id_permintaan`,`code_permintaan`,`code_store`,`nik_user`,`nama_store`,`nama_user`,`kategori`,`code_perangkat`,`merk`,`sn`,`keterangan`,`tanggal_permintaan`,`status`,`tanggal_proses`) VALUES 
+ (1,'619182026031224','104','0','test','Nugraha Apec Tryawan','Pos 1','4','hj','bjkbjk','bkjbjk','2023-05-17',3,'2023-05-17'),
+ (2,'619182026031224','104','0','test','Nugraha Apec Tryawan','Pos 1','4','uigiubkbkj','vkjvkj','vjkjvkjv','2023-05-17',3,'2023-05-17');
+/*!40000 ALTER TABLE `tbl_newpermintaan` ENABLE KEYS */;
+
+
+--
+-- Definition of table `tbl_newproses`
+--
+
+DROP TABLE IF EXISTS `tbl_newproses`;
+CREATE TABLE `tbl_newproses` (
+  `id` int(10) NOT NULL AUTO_INCREMENT,
+  `code_store` varchar(10) NOT NULL,
+  `nama_store` varchar(100) NOT NULL,
+  `nik_user` int(10) NOT NULL,
+  `nama_user` varchar(100) NOT NULL,
+  `code_permintaan` varchar(100) NOT NULL,
+  `no_do` varchar(100) NOT NULL,
+  `kategori` varchar(100) NOT NULL,
+  `perangkat` varchar(100) NOT NULL,
+  `sn` varchar(100) NOT NULL,
+  `merk` varchar(100) NOT NULL,
+  `tahun` varchar(10) NOT NULL,
+  `tgl_proses` date NOT NULL,
+  `approved` varchar(100) NOT NULL,
+  `keterangan` varchar(100) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `tbl_newproses`
+--
+
+/*!40000 ALTER TABLE `tbl_newproses` DISABLE KEYS */;
+INSERT INTO `tbl_newproses` (`id`,`code_store`,`nama_store`,`nik_user`,`nama_user`,`code_permintaan`,`no_do`,`kategori`,`perangkat`,`sn`,`merk`,`tahun`,`tgl_proses`,`approved`,`keterangan`) VALUES 
+ (1,'104','test',0,'Nugraha Apec Tryawan','619182026031224','8978HUIH98Y98','POS 1','CASH DRAWER','BJKBJK','HJ','2023','2023-05-17','Sisyl','Bkjbjk'),
+ (2,'104','test',0,'Nugraha Apec Tryawan','619182026031224','8978HUIH98Y98','POS 1','CASH DRAWER','VKJVKJ','UIGIUBKBKJ','2023','2023-05-17','Sisyl','Vjkjvkjv');
+/*!40000 ALTER TABLE `tbl_newproses` ENABLE KEYS */;
+
+
+--
+-- Definition of table `tbl_permintaan`
+--
+
+DROP TABLE IF EXISTS `tbl_permintaan`;
+CREATE TABLE `tbl_permintaan` (
+  `id_permintaan` int(100) NOT NULL AUTO_INCREMENT,
+  `code_permintaan` varchar(100) NOT NULL,
+  `code_store` varchar(100) NOT NULL,
+  `nik_user` varchar(100) NOT NULL,
+  `nama_store` varchar(100) NOT NULL,
+  `nama_user` varchar(100) NOT NULL,
+  `kategori` varchar(100) NOT NULL,
+  `code_perangkat` varchar(100) NOT NULL,
+  `merk` varchar(100) NOT NULL,
+  `sn` varchar(100) NOT NULL,
+  `keterangan` varchar(100) NOT NULL,
+  `tanggal_permintaan` varchar(20) NOT NULL,
+  `status` int(3) NOT NULL,
+  `tanggal_proses` date DEFAULT NULL,
+  PRIMARY KEY (`id_permintaan`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `tbl_permintaan`
+--
+
+/*!40000 ALTER TABLE `tbl_permintaan` DISABLE KEYS */;
+INSERT INTO `tbl_permintaan` (`id_permintaan`,`code_permintaan`,`code_store`,`nik_user`,`nama_store`,`nama_user`,`kategori`,`code_perangkat`,`merk`,`sn`,`keterangan`,`tanggal_permintaan`,`status`,`tanggal_proses`) VALUES 
+ (1,'980974216375513','104','0','test','Nugraha Apec Tryawan','Pos 1','4','qsws','swqsqw','sqwsqwsqw','2023-05-17',3,'2023-05-17'),
+ (2,'223604162604663','104','0','test','Nugraha Apec Tryawan','Pos 1','3','saasa','sasa','sasas','2023-05-18',3,'2023-05-18');
+/*!40000 ALTER TABLE `tbl_permintaan` ENABLE KEYS */;
+
+
+--
+-- Definition of table `tbl_proses`
+--
+
+DROP TABLE IF EXISTS `tbl_proses`;
+CREATE TABLE `tbl_proses` (
+  `id` int(10) NOT NULL AUTO_INCREMENT,
+  `code_store` varchar(10) NOT NULL,
+  `nama_store` varchar(100) NOT NULL,
+  `nik_user` int(10) NOT NULL,
+  `nama_user` varchar(100) NOT NULL,
+  `code_permintaan` varchar(100) NOT NULL,
+  `no_do` varchar(100) NOT NULL,
+  `kategori` varchar(100) NOT NULL,
+  `perangkat` varchar(100) NOT NULL,
+  `sn` varchar(100) NOT NULL,
+  `merk` varchar(100) NOT NULL,
+  `tahun` varchar(10) NOT NULL,
+  `tgl_proses` date NOT NULL,
+  `approved` varchar(100) NOT NULL,
+  `keterangan` varchar(100) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `tbl_proses`
+--
+
+/*!40000 ALTER TABLE `tbl_proses` DISABLE KEYS */;
+INSERT INTO `tbl_proses` (`id`,`code_store`,`nama_store`,`nik_user`,`nama_user`,`code_permintaan`,`no_do`,`kategori`,`perangkat`,`sn`,`merk`,`tahun`,`tgl_proses`,`approved`,`keterangan`) VALUES 
+ (1,'104','test',0,'Nugraha Apec Tryawan','980974216375513','1234','POS 1','CASH DRAWER','SWQSQW','QSWS','2023','2023-05-17','Sisyl','Sqwsqwsqw'),
+ (2,'104','test',0,'Nugraha Apec Tryawan','223604162604663','EW32442DQA','POS 1','UPS','SASA','SAASA','2023','2023-05-18','Sisyl','Sasas');
+/*!40000 ALTER TABLE `tbl_proses` ENABLE KEYS */;
+
+
+--
+-- Definition of table `user`
+--
+
+DROP TABLE IF EXISTS `user`;
+CREATE TABLE `user` (
+  `id_user` int(50) unsigned NOT NULL AUTO_INCREMENT,
+  `nik_user` int(20) NOT NULL,
+  `nama_user` varchar(100) NOT NULL,
+  `username` varchar(100) NOT NULL,
+  `email_user` varchar(100) NOT NULL,
+  `pass_user` varchar(100) NOT NULL,
+  `level_user` varchar(100) NOT NULL,
+  PRIMARY KEY (`id_user`),
+  UNIQUE KEY `nik_user` (`nik_user`)
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+
+--
+-- Dumping data for table `user`
+--
+
+/*!40000 ALTER TABLE `user` DISABLE KEYS */;
+INSERT INTO `user` (`id_user`,`nik_user`,`nama_user`,`username`,`email_user`,`pass_user`,`level_user`) VALUES 
+ (1,1,'superadmin','admin','admin@admin.com','d033e22ae348aeb5660fc2140aec35850c4da997','admin'),
+ (2,0,'Nugraha Apec Tryawan','nugrahaapec','nugraha.apec@hokben.co.id','7c4a8d09ca3762af61e59520943dc26494f8941b','technical support'),
+ (4,12345,'Sisyl','sisil','adminit@hokben.co.id','7c4a8d09ca3762af61e59520943dc26494f8941b','staff');
+/*!40000 ALTER TABLE `user` ENABLE KEYS */;
+
+
+
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
